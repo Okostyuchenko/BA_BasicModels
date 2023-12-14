@@ -19,7 +19,9 @@
     .\myenv\Scripts\activate
     ```
 ## Установка бібліотек
-
+1. Клонувати репозиторій:
+   ```bash
+   git clone https://github.com/Okostyuchenko/BA_BasicModels
 1. Оновити репозиторій:
    ```bash
    git pull
